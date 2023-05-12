@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "app": "Go to App",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "features": {
+    "heading": "Features",
+    "list": {
+      "ads": "Free",
+      "export": "Export your resume to JSON or PDF format",
+      "import": "Import data from LinkedIn, JSON Resume",
+      "languages": "Accessible in multiple languages"
+    }
+  },
+  "links": {
+    "heading": "Links",
+    "links": {
+      "docs": "Documentation",
+      "donate": "Donate",
+      "github": "Source Code",
+      "privacy": "Privacy Policy",
+      "reddit": "Reddit",
+      "service": "Terms of Service"
+    }
+  },
+  "screenshots": {
+    "heading": "Screenshots"
+  },
+  "summary": {
+    "body": "Since October of 2022 we have seen many companies laying off thousands of employees which created an opportunity for online resume building websites and online ATS systems raising rates to increase profits during this hard time. With this app, you can create multiple resumes, share them with recruiters through a unique link and print as PDF, all for free, no advertisements, without losing the integrity and privacy of your data.",
+    "heading": "Summary"
+  },
+  "testimonials": {
+    "body": "Good or bad, I would love to hear your opinion on Reactive Resume and how the experience has been for you.<br/>Here are some of the messages sent in by users across the world.",
+    "contact": "You can reach out to me through <1>my email</1> or through the contact form on <3>my website</3>.",
+    "heading": "Testimonials"
+  }
+}
